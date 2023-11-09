@@ -1,9 +1,9 @@
 # **Currículum Vitae de Harry Potter** :sparkles:
 
 ## **Información Personal** :mag_right:
-- **Nombre:** Harry James Potter
-- **Fecha de Nacimiento:** 31 de julio de 1980
-- **Lugar de Nacimiento:** Godric's Hollow, Inglaterra
+- **Nombre:** Alex PM
+- **Fecha de Nacimiento:** 17 de NOV de 2005
+- **Lugar de Nacimiento:** Castellon
 - **Email:** harry@hogwarts.com
 - **Teléfono:** +44 123 456 789
 
